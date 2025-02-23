@@ -30,9 +30,7 @@ When I’m not coding, you’ll find me brainstorming startup ideas, participati
 
 ## Skills & Technologies
 
-### 🛠️ Languages and Tools:
-
-<p align="left">
+<div style="display: flex; flex-wrap: wrap; gap: 10 px;">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
   </a>
@@ -111,7 +109,7 @@ When I’m not coding, you’ll find me brainstorming startup ideas, participati
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
-</p>
+</div>
 
 ## GitHub Stats
 
